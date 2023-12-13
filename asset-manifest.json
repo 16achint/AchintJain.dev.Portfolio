@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/16achint/AchintJain.dev.Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/16achint/AchintJain.dev.Portfolio/static/js/main.8bc9ebda.js",
-    "static/media/azuki.avif": "/16achint/AchintJain.dev.Portfolio/static/media/azuki.8ff1a2e915d323942e53.avif",
-    "index.html": "/16achint/AchintJain.dev.Portfolio/index.html",
-    "main.bf538fe7.css.map": "/16achint/AchintJain.dev.Portfolio/static/css/main.bf538fe7.css.map",
-    "main.8bc9ebda.js.map": "/16achint/AchintJain.dev.Portfolio/static/js/main.8bc9ebda.js.map"
+    "main.css": "/AchintJain.dev.Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/AchintJain.dev.Portfolio/static/js/main.9876a2b5.js",
+    "static/media/azuki.avif": "/AchintJain.dev.Portfolio/static/media/azuki.8ff1a2e915d323942e53.avif",
+    "index.html": "/AchintJain.dev.Portfolio/index.html",
+    "main.bf538fe7.css.map": "/AchintJain.dev.Portfolio/static/css/main.bf538fe7.css.map",
+    "main.9876a2b5.js.map": "/AchintJain.dev.Portfolio/static/js/main.9876a2b5.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.8bc9ebda.js"
+    "static/js/main.9876a2b5.js"
   ]
 }
